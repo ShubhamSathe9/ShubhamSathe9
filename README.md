@@ -27,43 +27,11 @@
 
 ## About Me
 
-```python
-class ShubhamSathe:
+I'm **Shubham Sathe**, an aspiring **Artificial Intelligence & Machine Learning Engineer** passionate about building products that combine intelligent systems with exceptional user experiences.
 
-    def __init__(self):
+Currently focused on developing **JapanVerse**—an AI-powered Japanese learning platform—and deepening my expertise in machine learning, backend engineering, and scalable software architecture.
 
-        self.role = "AI & Machine Learning Enthusiast"
-
-        self.location = "India"
-
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "SQL"
-        ]
-
-        self.frameworks = [
-            "Django",
-            "Django REST Framework",
-            "Next.js"
-        ]
-
-        self.interests = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Backend Engineering",
-            "System Design"
-        ]
-
-        self.current_project = "JapanVerse"
-
-        self.goal = (
-            "Build AI products that people love to use."
-        )
-
-    def motto(self):
-        return "Learn • Build • Improve"
-```
+I enjoy transforming ideas into production-ready applications through clean code, continuous learning, and thoughtful design.
 
 ---
 
