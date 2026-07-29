@@ -58,9 +58,9 @@ I enjoy transforming ideas into production-ready applications through clean code
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubhamSathe9&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats-ruby-one-41.vercel.app/api?username=ShubhamSathe9&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSathe9&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats-ruby-one-41.vercel.app/api/top-langs/?username=ShubhamSathe9&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
