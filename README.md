@@ -4,22 +4,11 @@
 
 ### Artificial Intelligence • Machine Learning
 
+*Learning to build AI-driven products with clean code, scalable systems, and a passion for solving real-world problems.*
 
-
-<p>
-<a href="https://github.com/ShubhamSathe9">
-<img src="https://komarev.com/ghpvc/?username=ShubhamSathe9&label=Profile%20Views&style=flat-square&color=2563eb"/>
-</a>
-
-<a href="https://github.com/ShubhamSathe9?tab=followers">
-<img src="https://img.shields.io/github/followers/ShubhamSathe9?style=flat-square&logo=github"/>
-</a>
-
-<a href="https://github.com/ShubhamSathe9">
-<img src="https://img.shields.io/github/stars/ShubhamSathe9?affiliations=OWNER&style=flat-square&logo=github"/>
-</a>
-
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=ShubhamSathe9&label=Profile%20Views&style=flat-square&color=2563eb)](https://github.com/ShubhamSathe9)
+[![Followers](https://img.shields.io/github/followers/ShubhamSathe9?style=flat-square&logo=github)](https://github.com/ShubhamSathe9?tab=followers)
+[![Stars](https://img.shields.io/github/stars/ShubhamSathe9?affiliations=OWNER&style=flat-square&logo=github)](https://github.com/ShubhamSathe9)
 
 </div>
 
@@ -27,11 +16,18 @@
 
 ## About Me
 
-I'm **Shubham Sathe**, an aspiring **Artificial Intelligence & Machine Learning Engineer** passionate about building products that combine intelligent systems with exceptional user experiences.
+I'm **Shubham Sathe**, a Computer Science student and aspiring **Artificial Intelligence & Machine Learning Engineer**, interested in building intelligent systems on top of solid backend foundations.
 
-I enjoy transforming ideas into production-ready applications through clean code, continuous learning, and thoughtful design.
+I'm deepening my skills in machine learning, backend engineering, and scalable software architecture, and I learn best by building things step by step.
 
 ---
+
+## What I'm Working On
+
+- 🧠 Learning Machine Learning and Deep Learning fundamentals
+- 🚀 Improving backend architecture and API design
+- 🏗️ Studying system design
+- 🌱 Preparing to make my first open-source contribution
 
 ---
 
@@ -39,7 +35,7 @@ I enjoy transforming ideas into production-ready applications through clean code
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,git,github,vscode&perline=6"/>
+![Tech Stack](https://skillicons.dev/icons?i=python,django,git,github&perline=6)
 
 </div>
 
@@ -49,60 +45,25 @@ I enjoy transforming ideas into production-ready applications through clean code
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-ruby-one-41.vercel.app/api?username=ShubhamSathe9&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-ruby-one-41.vercel.app/api/top-langs/?username=ShubhamSathe9&layout=compact&theme=github_dark&hide_border=true"/>
+![Streak Stats](https://streak-stats.demolab.com?user=ShubhamSathe9&theme=github-dark&hide_border=true)
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShubhamSathe9&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSathe9&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## Featured Projects
-
-| Project | Description | Status |
-|----------|-------------|--------|
-
-| 🤖 **AI Project** | Machine learning experiments and practical applications | 🔬 Learning |
-| 🌐 **Full Stack App** | Django + Next.js web application | 🚀 Active |
 
 ---
 
 ## Current Goals
 
-- Build production-ready AI applications.
-- Master Machine Learning and Deep Learning.
-- Contribute consistently to open source.
-- Create software with clean architecture and great user experience.
+- Build and deploy AI applications
+- Learn Machine Learning and Deep Learning in depth
+- Start contributing to open source
+- Write clean, well-structured software
 
 ---
 
 ## Connect
 
-<div align="center">
-
-<a href="https://github.com/ShubhamSathe9">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsathe0813@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamSathe9)
 
 ---
 
