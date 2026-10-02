@@ -4,7 +4,7 @@
 
 ### Artificial Intelligence • Machine Learning
 
-*Building AI-driven products with clean code, scalable systems, and a passion for solving real-world problems.*
+
 
 <p>
 <a href="https://github.com/ShubhamSathe9">
@@ -29,18 +29,9 @@
 
 I'm **Shubham Sathe**, an aspiring **Artificial Intelligence & Machine Learning Engineer** passionate about building products that combine intelligent systems with exceptional user experiences.
 
-Currently focused on developing **JapanVerse**—an AI-powered Japanese learning platform—and deepening my expertise in machine learning, backend engineering, and scalable software architecture.
-
 I enjoy transforming ideas into production-ready applications through clean code, continuous learning, and thoughtful design.
 
 ---
-
-## What I'm Working On
-
-- 🇯🇵 **JapanVerse** — An AI-powered platform for learning Japanese through immersive lessons and modern web technologies.
-- 🧠 Learning Machine Learning and Deep Learning fundamentals.
-- 🚀 Improving backend architecture and API design.
-- 🌱 Contributing to open-source projects as I grow.
 
 ---
 
@@ -48,7 +39,7 @@ I enjoy transforming ideas into production-ready applications through clean code
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,nextjs,react,js,ts,mysql,postgres,git,github,linux,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,git,github,vscode&perline=6"/>
 
 </div>
 
@@ -88,7 +79,7 @@ I enjoy transforming ideas into production-ready applications through clean code
 
 | Project | Description | Status |
 |----------|-------------|--------|
-| 🇯🇵 **JapanVerse** | AI-powered Japanese learning platform | 🚧 In Progress |
+
 | 🤖 **AI Project** | Machine learning experiments and practical applications | 🔬 Learning |
 | 🌐 **Full Stack App** | Django + Next.js web application | 🚀 Active |
 
